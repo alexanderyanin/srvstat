@@ -29,3 +29,4 @@ echo "</p>" >> index.html
 
 echo "</body>" >> index.html
 echo "</html>" >> index.html
+mv index.html stat.html
